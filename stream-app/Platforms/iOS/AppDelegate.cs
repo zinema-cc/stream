@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace desktop_client
+namespace Stream
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

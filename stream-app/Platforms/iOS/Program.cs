@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace desktop_client
+namespace Stream
 {
     public class Program
     {

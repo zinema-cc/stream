@@ -1,4 +1,4 @@
-﻿namespace desktop_client
+﻿namespace Stream
 {
     public partial class AppShell : Shell
     {

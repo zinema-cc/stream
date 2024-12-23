@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace desktop_client
+namespace Stream
 {
     internal class Program : MauiApplication
     {

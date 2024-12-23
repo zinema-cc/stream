@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace desktop_client
+namespace Stream
 {
     [Application]
     public class MainApplication : MauiApplication

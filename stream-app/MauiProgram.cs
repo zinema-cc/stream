@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace desktop_client
+namespace Stream
 {
     public static class MauiProgram
     {
