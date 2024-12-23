@@ -1,2 +1,2 @@
 # stream
-cross-platform bit-torrent client
+Cross-platform bit-torrent client.
